@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MathCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PositionTracker_AndroidApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing" vcs="Git" />
+  </component>
+</project>
